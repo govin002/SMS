@@ -2167,7 +2167,7 @@ body.transitioned .top-right-content {
   }
 
   .social-icons a {
-    width: 6rem;
+    width: 3rem;
     height: 3rem;
     gap: 0.5rem;
   }
@@ -2191,3 +2191,4 @@ body.transitioned .top-right-content {
     padding: 0 0.5rem;
   }
 }
+
